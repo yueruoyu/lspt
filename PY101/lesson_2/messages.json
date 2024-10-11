@@ -1,0 +1,27 @@
+{
+    "1": 
+                {
+                "welcome_message": "Welcome to Calculator",
+                "input_message_1": "Please input your first number: ",
+                "input_message_2": "Please input your second number: ",
+                "operation_message": "What operation do you want?\n1)add 2)subtract 3)multiply 4)divide ",
+                "error_message_1": "Hmm... it looks like not a valid number",
+                "error_message_2": "Hmm... it looks like not a valid number",
+                "error_message_3": "Please input a valid operation: 1/2/3/4",
+                "output_message": "The result is ",
+                "continue_message": "Do you want to continue the calculation? Y/N"
+                },
+     "2": 
+                {
+                "welcome_message": "欢迎使用计算器",
+                "input_message_1": "请输入第一个数字: ",
+                "input_message_2": "请输入第二个数字: ",
+                "operation_message": "请输入需要的运算\n 1）加法 2）减法 3）乘法 4）除法 ",
+                "error_message_1": "嗯... 这个好像不是一个数字",
+                "error_message_2": "嗯... 这个好像不是一个数字",
+                "error_message_3": "请输入有效的运算选择 1/2/3/4",
+                "output_message": "结果是 ",
+                "continue_message": "还想继续吗？ Y/N "
+                }
+
+}
